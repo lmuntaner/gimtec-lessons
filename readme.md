@@ -6,4 +6,4 @@ Apunts per les classes de programació a Gimtec.
 
 Introducció a la programació:
 
-* [Primer script](./001.md)
+* [Primer script](./apunts/001.md)
